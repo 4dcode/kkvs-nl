@@ -172,7 +172,7 @@ body {
 
 .contact {
     width: 100%;
-    min-height: 400px;
+    min-height: 350px;
     padding: 50px 0;
     background-color: #ecf0f1;
     text-align: center;
@@ -584,10 +584,9 @@ body {
 
 .promo {
     width: 100%;
-    min-height: 520px;
-    padding: 90px 0;
+    min-height: 600px;
+    padding: 120px 0;
     background: #323232 url(../images/promo-bg.png) center 0 no-repeat;
-
     background-size: cover;
     text-align: center;
     color: #fff
